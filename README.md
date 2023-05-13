@@ -4,7 +4,7 @@ This project contains the necessary files to train a spoken language identificat
 This project is first and foremost adapted from https://github.com/py-lidbox/lidbox.
 
 ## Environment Setup
-1. Clone repo with `git clone github`
+1. Clone repo with `git clone https://github.com/jofb/KIT301_Lidbox_training.git`
 2. Setup virtual environment 
 3. Install requirements with `pip install -r requirements.txt`
 4. Install TensorFlow separately with `pip install tensorflow`
